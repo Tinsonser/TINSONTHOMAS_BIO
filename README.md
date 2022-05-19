@@ -1,5 +1,5 @@
-# TINSONTHOMAS_BIO
-SAMPLE BIO
+#TINSONTHOMAS_BIO
+
 ## <!-- Typing SVG -->
 <p align="center">
     <a href="t.me/TinsonThomas_22">

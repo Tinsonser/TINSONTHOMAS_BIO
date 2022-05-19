@@ -36,6 +36,6 @@
 
 ----
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TINSON_SIR&show_icons=true&theme=nightowl" alt="TINSON_SIR" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TINSONSIR&show_icons=true&theme=nightowl" alt="TINSONSIR" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TINSON_SIR&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="TINSON_SIR"/></p></a><br> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TINSONSIR&theme=algolia&layout=compact&langs_count=10&hide_border=true&show_icons=true" alt="TINSONSIR"/></p></a><br> 
